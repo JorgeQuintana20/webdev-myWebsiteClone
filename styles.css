@@ -1,1 +1,7 @@
-/* CSS CODE HERE */
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
