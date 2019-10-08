@@ -6,6 +6,10 @@
     float: left;
 }
 
+body {
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+}
+
 /* Nav Bar */
 
 #navimage {
@@ -36,3 +40,57 @@ li {
     text-decoration: none;
   }
   
+
+  /* hero */
+
+#hero {
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+}
+
+#herotext {
+    height: 500px;
+    width : 100%;
+    text-align: center;
+}
+
+#herotitle {
+    font-size: 64px;
+}
+
+#herop {
+    font-size: 20px;
+}
+
+#signup {
+    display: inline-block;
+}
+
+#heroemail {
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 200px;
+    margin: auto;
+    padding: 18.4px 16px;
+}
+
+#tryslack {
+    border: 1px solid purple;
+    border-radius: 4px;
+    width: 200px;
+    margin: auto;
+    padding: 19px 40px 20px;
+    background-color: purple;
+    font-size: .875rem;
+}
+
+
+
+
+
+
+
+
+
+
