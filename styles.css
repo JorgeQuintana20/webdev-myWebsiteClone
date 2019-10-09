@@ -30,7 +30,7 @@ li:first-child {
 }
 
 li:nth-child(7) {
-    padding-right: 300px;
+    margin-right: 300px;
 }
 
 li {
@@ -39,14 +39,121 @@ li {
     padding: 14px 16px;
     text-decoration: none;
   }
+
+  #yourwork {
+      border: 1px solid #611F69;
+      border-radius: 4px;
+      background-color: #611F69;
+      padding: 10px;
+      color: white;
+  }
   
 
   /* hero */
 
+
+
+  
+
+#blueimg{
+    position: relative;
+    top: 400px;
+    left: 80%;
+}
+
+#blueimg2 {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#yellowimg {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#yellowimg2 {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#greenimg {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#greenimg2 {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#redimg {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#redimg2 {
+    position: relative;
+    top: 0px;
+    left : 0%;
+} 
+
+#dropbox {
+    position: relative;
+    top: 0px;
+    left : 0%;
+} 
+
+#chrome {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#z {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#face {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#dots {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#arrow {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+#circle {
+    position: relative;
+    top: 0px;
+    left : 0%;
+}
+
+
+
+
+
+
 #hero {
-    height: 500px;
+    height: 400px;
     width: 100%;
-    background-color: aqua;
+    border-bottom: 1px solid yellow; 
 }
 
 #herotext {
@@ -72,17 +179,19 @@ li {
     border-radius: 4px;
     width: 200px;
     margin: auto;
-    padding: 18.4px 16px;
+    padding: 18.6px 16px;
+    color: grey;
 }
 
 #tryslack {
-    border: 1px solid purple;
+    border: 1px solid #611F69;
     border-radius: 4px;
     width: 200px;
     margin: auto;
-    padding: 19px 40px 20px;
-    background-color: purple;
+    padding: 19px 5px 20px;
+    background-color: #611F69;
     font-size: .875rem;
+    color: white;
 }
 
 
