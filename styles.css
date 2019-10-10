@@ -52,13 +52,16 @@ li {
   /* hero */
 
 
-
+.small {
+    height: 20px;
+    width: auto;
+}
   
 
 #blueimg{
     position: relative;
     top: 400px;
-    left: 80%;
+    left: 88%;
 }
 
 #blueimg2 {
@@ -69,80 +72,80 @@ li {
 
 #yellowimg {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 20px;
+    left : 17%;
 }
 
 #yellowimg2 {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 350px;
+    left : 91%;
 }
 
 #greenimg {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 50px;
+    left : 70%;
 }
 
 #greenimg2 {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 400px;
+    left : -10%;
 }
 
 #redimg {
     position: relative;
     top: 0px;
-    left : 0%;
+    left : 85%;
 }
 
 #redimg2 {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 325px;
+    left : -10%;
 } 
 
 #dropbox {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 430px;
+    left : 37%;
 } 
 
 #chrome {
     position: relative;
-    top: 0px;
+    top: 350px;
     left : 0%;
 }
 
 #z {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 200px;
+    left : -5%;
 }
 
 #face {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 150px;
+    left: -15%;
 }
 
 #dots {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 400px;
+    left : 5%;
 }
 
 #arrow {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 10px;
+    left : 55%;
 }
 
 #circle {
     position: relative;
-    top: 0px;
-    left : 0%;
+    top: 250px;
+    left : 45%;
 }
 
 
@@ -151,7 +154,7 @@ li {
 
 
 #hero {
-    height: 400px;
+    height: 500px;
     width: 100%;
     border-bottom: 1px solid yellow; 
 }
