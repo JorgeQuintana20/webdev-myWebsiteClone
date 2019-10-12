@@ -47,7 +47,7 @@ li {
       padding: 10px;
       color: white;
   }
-  
+
 
   /* hero */
 
@@ -56,7 +56,7 @@ li {
     height: 20px;
     width: auto;
 }
-  
+
 
 #blueimg{
     position: relative;
@@ -104,13 +104,13 @@ li {
     position: relative;
     top: 325px;
     left : -10%;
-} 
+}
 
 #dropbox {
     position: relative;
     top: 430px;
     left : 37%;
-} 
+}
 
 #chrome {
     position: relative;
@@ -156,7 +156,6 @@ li {
 #hero {
     height: 500px;
     width: 100%;
-    border-bottom: 1px solid yellow; 
 }
 
 #herotext {
@@ -198,11 +197,68 @@ li {
 }
 
 
+/* collaboration */
 
 
+#collaboration {
+    width: 100%;
+    height: 800px;
+    background-color: hotpink;
+}
+
+#collabtitle {
+    text-align: center;
+    font-size: 45px;
+}
 
 
+#textcollab {
+    display: block;
+    float: right;
+}
+
+#textcollab li{
+    font-size: 16px;
+    display: block;
+    padding: 12px;
+    width: 150px;
+}
+
+#collabimg {
+    padding-left: 75px;
+}
 
 
+/* teamwork */
+
+
+#teamwork {
+    height: 600px;
+    width: 100%;
+}
+
+#teamtext {
+    height: 0px;
+    width: 50%;
+    padding-top: 175px;
+    padding-left: 80px;
+}
+
+#teamtitle {
+    font-size: 45px;
+}
+
+#teamp {
+    font-size: 18px;
+}
+
+#teama {
+    font-size: 18px;
+}
+
+#teamimg {
+    position: relative;
+    bottom: 150px;
+}
 
 
