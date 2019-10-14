@@ -263,3 +263,14 @@ li {
 }
 
 
+/* company */
+
+#company{
+    background-color: grey;
+    text-align: center;
+}
+
+#companytitle {
+    font-size: 50px;
+    
+}
