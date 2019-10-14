@@ -10,6 +10,10 @@ body {
     font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
 }
 
+a {
+    text-decoration: none;
+}
+
 /* Nav Bar */
 
 #navimage {
@@ -265,12 +269,106 @@ li {
 
 /* company */
 
-#company{
-    background-color: grey;
+.div {
+    height: 340px;
+    width: 20%;
     text-align: center;
+    margin: 10px;
+    padding: 10px 10px 35px;
+    background-color: white;
+}
+
+#intuit {
+    margin-left: 100px;
+}
+
+.companyimg {
+    height: 250px;
+    width: auto;
+}
+
+#everlaneimg {
+    margin-top: 10px;
+}
+
+#company{
+    background-color: #f0f0f0;
+    text-align: center;
+    height: 800px;
+    width: 100%;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;;
+    font-size: 18px;
+}
+
+#companytext {
+    margin-bottom: 50px;
 }
 
 #companytitle {
     font-size: 50px;
-    
+    padding-top: 80px;
+    margin-top: 80px;
+    margin-bottom: 16px;
+    font-weight: bold;
 }
+
+#companyp {
+    font-size: 20px;
+}
+
+#companya{
+    font-size: 18px;
+}
+
+.morecomimg {
+    padding: 75px 30px 75px 30px;
+}
+
+
+/* more */
+
+#more {
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;;
+    font-size: 24px;
+    height: 800px;
+    width: 100%;
+    background-color: #f7f7f7;
+    font-weight: bold;
+}
+
+#moretitle {
+    text-align: center;
+    font-family: Slack-Circular-Pro,"Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;;
+    font-size: 45px;
+    margin: 0;
+    padding-top: 80px;
+    padding-bottom: 24px;
+}
+
+.morediv {
+    height: 380px;
+    width: 20%;
+    margin: 10px;
+    padding: 50px 50px 35px;
+    background-color: white;
+}
+
+.moreimg {
+    height: 200px;
+    width: auto;
+}
+
+#daily {
+    margin-left: 150px;
+}
+
+#engagementimg {
+    width: auto;
+    height: 190px;
+}
+
+.morea {
+    font-size: 14px;
+}
+
+
