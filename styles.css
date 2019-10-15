@@ -349,8 +349,9 @@ li {
     height: 380px;
     width: 20%;
     margin: 10px;
-    padding: 50px 50px 35px;
+    padding: 50px 0px 35px;
     background-color: white;
+    text-align: center;
 }
 
 .moreimg {
@@ -359,7 +360,7 @@ li {
 }
 
 #daily {
-    margin-left: 150px;
+    margin-left: 350px;
 }
 
 #engagementimg {
@@ -369,6 +370,12 @@ li {
 
 .morea {
     font-size: 14px;
+}
+
+/* footer */
+
+.footerdiv {
+    display: inline-block;
 }
 
 
